@@ -1,2 +1,2 @@
 # aula6
-javascript review
+programming logic with javascript (in progress)
